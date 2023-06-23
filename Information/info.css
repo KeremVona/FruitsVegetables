@@ -1,0 +1,54 @@
+#orangeh1 {
+    color: #FF6000;
+    text-align: center;
+}
+
+#orange {
+    background-color: #FFE6C7;
+}
+
+p {
+    color: #454545;
+}
+
+img {
+    height: 400px; width: 300px;
+}
+
+#watermelon {
+    background-color: #EEEEEE;
+}
+
+#watermelonh1 {
+    color: #CF0A0A;
+    text-align: center;
+}
+
+#carroth1 {
+    text-align: center;
+    color: #FF6000;
+}
+
+#carrot {
+    background-color: #FFE6C7;
+}
+
+#carrotparagraph {
+    color: #454545;
+}
+
+#cucumber {
+    background-color: #E5D9B6;
+}
+#cucumberh1 {
+    text-align: center;
+    color: #5F8D4E;
+}
+
+p {
+    font-size: xlarge;
+}
+
+h1 {
+    font-size: xxx-large;
+}
